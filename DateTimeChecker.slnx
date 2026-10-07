@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CheckDateValidApp/CheckDateValidApp.csproj" />
+  <Project Path="DateTimeCheckerLib/DateTimeCheckerLib.csproj" />
+  <Project Path="DateTimeCheckerTests/DateTimeCheckerTests.csproj" />
+</Solution>
